@@ -1,0 +1,20 @@
+https://www.figma.com/file/IhQRtrOZdu3TrvkPYREzOy/PlantManager/duplicate
+
+# Introdução
+
+Fala Dev! Seja muito bem vindo à **Next Level Week 05**, trilha **React Native**🚀 
+
+Para começar a preparar você para essa semana incrível de muito conteúdo e aprendizado, vamos começar configurando nosso ambiente de desenvolvimento, com algumas ferramentas fundamentais para chegarmos no fim desse evento com nosso app finalizado.
+
+## Preparando o ambiente
+
+Sem mais delongas, vamos ao conteúdo principal desse guia: configuração do seu ambiente para o NLW. Teremos três etapas principais na seção "**Instalação"**:
+
+- Node + NPM;
+- Yarn;
+- Expo;
+- Visual Studio Code e configurações.
+
+Se você já participou de alguma das nossas outras NLWs, já deve ter tudo isso instalado, mas talvez desatualizado. Por isso, preparamos uma seção "**Atualização"** para você atualizar suas dependências caso precise, mas sugerimos dar uma olhada pelo menos no guia Visual Studio Code na seção "**Instalação"** pois o Diego deixou algumas configs especialmente para você 💜
+
+Preparados? Então vamos lá!
